@@ -2,7 +2,7 @@
 
 Self driving project on udacity simulator: 
 
-[](https://github.com/orannahum/Self_driving_project/blob/main/self%20driving%20gif%20example.gif?raw=true)
+![](https://github.com/orannahum/Self_driving_project/blob/main/self%20driving%20gif%20example.gif?raw=true)
 
 1. download the simulator for collecting training data here in readme file :
 https://github.com/udacity/self-driving-car-sim
